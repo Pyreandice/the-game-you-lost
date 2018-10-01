@@ -24,13 +24,13 @@ namespace orbiter1
 
 
     }
+
     class planet
     {
         
         public bool Collision()
         {
             bool crassed = false;
-
 
             return crassed;
         }
@@ -40,6 +40,7 @@ namespace orbiter1
         }
 
     }
+
     class player
     {
 
@@ -69,7 +70,6 @@ namespace orbiter1
         {
 
         }
-
     }
     class Program
     {
